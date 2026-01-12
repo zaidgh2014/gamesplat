@@ -1,0 +1,48 @@
+{
+  "users": {
+    "admin": {
+      "password": "scrypt:32768:8:1$u1Pfh2FiTsC8Fps0$fe2cfa0843f4e9f86cddc4fd4ea285ba588446c3cb336904e0e5f4370d6516d8b29b35fd69b12a89901137532aa09d708b4d6af54be877605d6464d7eeac45fa",
+      "active": false,
+      "playtime": 0,
+      "games": {},
+      "votes": {
+        "3": "like"
+      }
+    },
+    "adminadasd": {
+      "password": "scrypt:32768:8:1$RtnP90z6NDAcfmWx$f570c6747289ce14810fa8fb3fabd4136eca805fc88dcfbec3abca79f55c11c585b84a3f1befca1a93aa00a8c0bd4636745dbacc5f7048ab8e5a0536f7256be3",
+      "active": true,
+      "playtime": 0,
+      "games": {},
+      "votes": {
+        "3": "dislike"
+      }
+    },
+    "adminadasd3": {
+      "password": "scrypt:32768:8:1$VdK9XXFKTri3EC2P$8b5759c0793e3628d699fcc926bfb228b1abe0c2f850f502a56f6d33a46cd33745c0a48cab2ab1d71541d7ce5009b7e30c5660a020918727df242975d1e16197",
+      "active": true,
+      "playtime": 61,
+      "games": {
+        "4": 61
+      },
+      "votes": {
+        "3": "like",
+        "4": "like"
+      }
+    },
+    "asdasd": {
+      "password": "scrypt:32768:8:1$v8lwcRKcVD1dQSQ3$6fb4715697cf4a7b75c9f38d5dccfcfe5745826223d0928425f06c16ecf82ae30f77cc404be2c371b195601e2b0d9f199aa9d69e051fe0f0e37bbf70374e290f",
+      "active": true,
+      "playtime": 0,
+      "games": {},
+      "votes": {}
+    },
+    "asdasd33": {
+      "password": "scrypt:32768:8:1$nAwXGSwcMmjIIlLv$fdf7a086a6ae2b82d28768b4fbba230fb0ef5ef690aee15027dceb3bedda7374ec3a566908faae7f82e7ea41c8a5cc83f2dd473185fabd9f4689c67edc6ada84",
+      "active": true,
+      "playtime": 0,
+      "games": {},
+      "votes": {}
+    }
+  }
+}
